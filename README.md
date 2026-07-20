@@ -1,37 +1,82 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Roy</h1>
-<h3 align="center">A passionate frontend developer, Problem solver from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Windwell**
+# Abhishek Kumar Roy
 
-- 🌱 I’m currently learning **Genai, System Design**
+**Full-Stack Developer · ML & GenAI Enthusiast**
 
-- 👯 I’m looking to collaborate on **blockchain and gen ai projects**
+Building thoughtful products at the intersection of web, AI, and blockchain.
 
-- 👨‍💻 All of my projects are available at [https://abhishekkumarroy.netlify.app/](https://abhishekkumarroy.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhishekkumarroy.netlify.app-2563eb?style=flat-square&logo=netlify&logoColor=white)](https://abhishekkumarroy.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-roy-963033289)
+[![Email](https://img.shields.io/badge/Email-abhishekroy2342005%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekroy2342005@gmail.com)
 
-- 💬 Ask me about **Web dev**
+</div>
 
-- 📫 How to reach me **abhishekroy2342005@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-kumar-roy-963033289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-roy-963033289" height="30" width="40" /></a>
-</p>
+## About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 Currently building **[MindWell](https://github.com/Abhishek-kroy/Mindwell_Frontend)** — an AI-powered mental health companion
+- 🌱 Deepening my knowledge of **Generative AI** and **System Design**
+- 🤝 Contributing to open source, including **[pytest](https://github.com/pytest-dev/pytest)**
+- 💬 Happy to talk about web development, ML, and smart contracts
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-kroy&show_icons=true&locale=en&layout=compact" alt="abhishek-kroy" /></p>
+## Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-kroy&show_icons=true&locale=en" alt="abhishek-kroy" /></p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[MindWell](https://github.com/Abhishek-kroy/Mindwell_Frontend)** | AI-powered mental health companion — mood tracking with clinically inspired tests, an empathetic AI chat, and a safe community space | React, Node.js, MongoDB, Gemini AI |
+| **[Scheduling Algorithms Visualizer](https://github.com/Abhishek-kroy/scheduling-algo)** ⭐ | Interactive Gantt-chart visualization of CPU scheduling algorithms (FCFS, SJF, Round Robin, Priority) | JavaScript, React |
+| **[Traffic Demand Forecaster](https://github.com/Abhishek-kroy/traffic-demand-forecaster)** | Machine-learning models for forecasting traffic demand | Python, Jupyter |
+| **[AlgoAlert](https://github.com/Abhishek-kroy/AlgoAlert)** | Real-time coding contest tracker with notifications for Codeforces, LeetCode, AtCoder, and CodeChef | React, Node.js |
+| **[Hand Calculator](https://github.com/Abhishek-kroy/Hand_Calculator)** | Perform arithmetic with hand gestures via webcam using computer vision | Python, OpenCV |
+| **[Smart Contract Lottery](https://github.com/Abhishek-kroy/foundry-smart-contract-lottery)** | Provably fair on-chain lottery built and tested with Foundry | Solidity, Foundry |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kroy&" alt="abhishek-kroy" /></p>
+## Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abhishek-kroy/Abhishek-kroy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abhishek-kroy/Abhishek-kroy/output/github-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/Abhishek-kroy/Abhishek-kroy/output/github-snake.svg" />
-</picture> 
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1e2530?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e2530?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-1e2530?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-1e2530?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Solidity](https://img.shields.io/badge/Solidity-1e2530?style=flat-square&logo=solidity&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-1e2530?style=flat-square&logo=kotlin)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-1e2530?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-1e2530?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e2530?style=flat-square&logo=tailwindcss)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-1e2530?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-1e2530?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e2530?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-1e2530?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-1e2530?style=flat-square&logo=firebase)
+![Apache Kafka](https://img.shields.io/badge/Kafka-1e2530?style=flat-square&logo=apachekafka&logoColor=white)
+
+**ML & Tools**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-1e2530?style=flat-square&logo=opencv)
+![Jupyter](https://img.shields.io/badge/Jupyter-1e2530?style=flat-square&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-1e2530?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-1e2530?style=flat-square&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1e2530?style=flat-square&logo=postman)
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-kroy&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-kroy&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Always open to collaborating on GenAI and blockchain projects — feel free to reach out.</sub>
+</div>
